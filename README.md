@@ -26,6 +26,7 @@ Database:
 ## Deployment
 
 Frontend: Vercel
+
 Backend: Render
 
 ## Author
